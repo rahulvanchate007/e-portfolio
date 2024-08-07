@@ -11,7 +11,7 @@ const introdata = {
         second: "This is my E-Portfolio",
     },
     description: "Curently pursuing Master's in Computer Science at Old Dominion University, Norfolk, Virginia.",
-    your_img_url: "https://media.licdn.com/dms/image/D4E03AQEUoyA3924hvg/profile-displayphoto-shrink_800_800/0/1705594785234?e=1711584000&v=beta&t=adrt4s9l_G8TvjDcmAj1mG7bU1grK_MKvBHu6DqRKLw",       
+    your_img_url: "https://media.licdn.com/dms/image/D4E03AQEUoyA3924hvg/profile-displayphoto-shrink_800_800/0/1705594785234?e=1728518400&v=beta&t=AzycASh7ieivx26S8hEWdV-Mhw9zigPBpMtP0UMvC5k",       
 };
 
 const dataabout = {
