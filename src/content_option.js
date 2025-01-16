@@ -10,13 +10,13 @@ const introdata = {
         first: "Full Stack Web Developer",
         second: "This is my E-Portfolio",
     },
-    description: "Curently pursuing Master's in Computer Science at Old Dominion University, Norfolk, Virginia.",
-    your_img_url: "https://github.com/rahulvanchate007/e-portfolio/blob/main/src/assets/images/LinkedinDP.jpg",       
+    description: "Curently pursuing Master's in Computer Science at Old Dominion University.",
+    img: "assets/images/LinkedinDP.jpg",       
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "Software Developer with 5+ years of experience, trying to seek a challenging position and dedicate services to a reputed organization to gain better experience in life. Worked on technologies such as JAVA, MySQL, React JS etc. More specifics related to my work are as follows:" 
+    aboutme: "Experienced Full Stack Developer with 5 years of expertise in designing, developing, and deploying scalable web and mobile applications. Skilled in integrating Machine Learning models and LLMs into software systems, enhancing functionality with AI-driven solutions. More specifics related to my work are as follows:" 
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
