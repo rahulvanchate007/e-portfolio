@@ -1,7 +1,7 @@
 const logotext = "RAHUL VANCHATE";
 const meta = {
     title: "Rahul Vanchate",
-    description: "I’m Rahul Vanchate - Full stack devloper, currently pursuing Master's in Computer Science at Old Dominion University",
+    description: "I’m Rahul Vanchate - Full stack devloper, currently wokring as an Application Developer at Map Communications, Chesapeake, Virginia",
 };
 
 const introdata = {
@@ -10,7 +10,7 @@ const introdata = {
         first: "Full Stack Web Developer",
         second: "This is my E-Portfolio",
     },
-    description: "Curently pursuing Master's in Computer Science at Old Dominion University.",
+    description: "Currently wokring as an Application Developer at Map Communications.",
     img: "assets/images/LinkedinDP.jpg",       
 };
 
